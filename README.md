@@ -2,7 +2,7 @@
 Code in cpp for 3rd assesment of biourja
 
 # Dispatch.cpp
-This is the main code file
+This is the main code file,
 Algorithm used:
 1. first adjust the regional forecast values according to the state forecast value as it is the most accurate one
 2. Then use these adjusted values to adjust the individual values region wise
